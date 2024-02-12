@@ -1,1 +1,3 @@
-# holbertonschool-shell
+#!/bin/bash
+read me
+please
