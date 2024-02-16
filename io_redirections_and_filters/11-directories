@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -R io_redirections_and_filters
+wc -l io_redirections_and_filters
