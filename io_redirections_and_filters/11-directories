@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l io_redirections_and_filters
+find . -type d -not -name '.' | wc -l
