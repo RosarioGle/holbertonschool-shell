@@ -1,2 +1,2 @@
 #!/bin/bash
-rmdir -p welcome/to/school
+rmdir -p /tmp/my_first_directory
