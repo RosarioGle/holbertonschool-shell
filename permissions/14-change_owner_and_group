@@ -1,2 +1,2 @@
-#!/bin/absh
+#!/bin/bash
 chown vincent :staff *
